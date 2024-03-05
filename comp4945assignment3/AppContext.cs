@@ -9,6 +9,6 @@ namespace CS_assn_3
         {
         }
 
-        public DbSet<Client> Clients { get; set; }
+        public DbSet<Customer> Customers { get; set; }
     }
 }
