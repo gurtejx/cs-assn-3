@@ -1,11 +1,11 @@
 using System.Data.Entity;
-using CS_assn_3.Models;
+using comp4945assignment3.Models;
 
-namespace CS_assn_3
+namespace comp4945assignment3
 {
     public class AppContext : DbContext
     {
-        public AppContext() : base("DefaultConnection")
+        public AppContext() : base("ServiceProviderDB")
         {
         }
 

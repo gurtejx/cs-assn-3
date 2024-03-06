@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Data.Entity;
 
-namespace CS_assn_3.Models
+namespace comp4945assignment3.Models
 {
     public class Person
     {
